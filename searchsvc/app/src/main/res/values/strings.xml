@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">locessent</string>
+    
+    <string-array name="Areas">
+        <item>SELECT AREA</item>
+        <item>Salt Lake</item>
+        <item>North Kolkata</item>
+        <item>South Kolkata</item>
+        <item>Central Kolkata</item>
+    </string-array>
+
+    <string-array name="Services">
+        <item>SELECT SERVICE</item>
+        <item>Shopping</item>
+        <item>Restaurants</item>
+        <item>Hospitals</item>
+    </string-array>
+
+    <string name="displayVal">
+        <item>SELECT SPECIFICATION</item>
+    </string>
+
+    <string-array name="ShoppingOptions">
+        <item>Clothing</item>
+        <item>Shoes</item>
+        <item>Grocery</item>
+        <item>Electronic Gadgets</item>
+    </string-array>
+    <string-array name="RestaurantOptions">
+        <item>Chinese</item>
+        <item>Mughlai</item>
+        <item>Italian</item>
+        <item>Desserts</item>
+    </string-array>
+    <string-array name="HospitalOptions">
+        <item>General</item>
+        <item>Eye</item>
+        <item>Heart</item>
+        <item>Kidney</item>
+    </string-array>
+</resources>
